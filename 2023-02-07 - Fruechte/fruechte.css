@@ -1,4 +1,11 @@
-h1, ol {
+.rot {
     color: red;
   }
   
+  .gruen {
+    color: green;
+  }
+  
+  #unterstrich {
+    text-decoration: underline;
+  }  
