@@ -1,0 +1,18 @@
+.schwarz {
+    background-color: #000000;
+}
+
+.rot {
+    background-color: #FF0000;
+}
+
+.gold {
+    background-color: #FFD700;
+}
+
+.schwarz,
+.rot,
+.gold {
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
