@@ -1,0 +1,18 @@
+h1 {
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+}
+
+h2 {
+    background-color: yellow;
+}
+.css1 {
+    color: #FF0000;
+}
+.css2 {
+    color: #00FF00;
+}
+.css3 {
+    color: #0000FF;
+}
