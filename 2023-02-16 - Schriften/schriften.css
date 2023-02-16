@@ -1,0 +1,11 @@
+body {
+    font-family: "Zeyada", "Comic Sans MS";
+    color: red;
+    font-style: italic;
+    /* font-variant: small-caps*/;
+}
+
+@font-face {
+    font-family: "Zeyada";
+    src: url(assets/Zeyada-Regular.ttf);
+}
