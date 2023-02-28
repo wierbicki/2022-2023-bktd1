@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+div {
+    border: 2px solid black;
+    width: 200px;
+    margin: 20px 0px 0px 0px;
+    padding: 5px 0px 5px 0px;
+}
+
+#eins {
+    text-align: right;
+    text-decoration:underline;
+    word-spacing: 5px;
+}
+#zwei {
+    text-align: center;
+    text-decoration: overline;
+    word-spacing: 5px;
+}
+#drei {
+    text-align: justify;
+    text-decoration:line-through;
+    word-spacing: 5px;
+}
+
