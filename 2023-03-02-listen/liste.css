@@ -1,0 +1,35 @@
+ol {
+    list-style-type:upper-roman;
+    list-style-position: inside;
+}
+ul {
+    list-style-type: square;
+    list-style-position: outside; /* Standardwert */
+}
+li {
+    border: 2px solid black; 
+}
+.rotdings {
+    color:#FF0000;
+}
+.gruendings {
+    color:#00FF00;
+}
+.apfel, .erdbeere {
+    background-color:#FF0000;
+}
+.birne, .kiwi {
+    background-color:#00FF00;
+}
+.apfel {
+    list-style-image: url("img/apfel.png");
+}
+.birne {
+    list-style-image: url("img/birne.png");
+}
+.erdbeere {
+    list-style-image: url("img/erdbeere.png");
+}
+.kiwi {
+    list-style-image: url("img/kiwi.png");
+}
