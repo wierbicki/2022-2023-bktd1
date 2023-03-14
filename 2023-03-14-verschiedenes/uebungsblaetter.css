@@ -1,12 +1,19 @@
+/* Lösung c) */
+
 h1 {
-    text-decoration: underline;
-    text-align: center;
- }
+   text-decoration: underline;
+   text-align: center;
+}
 
- a {
-    text-decoration: none;
- }
+/* Lösung d) */
+a {
+   text-decoration: none;
+}
 
- span {
-    color: red;
- }
+span {
+   width: 75px;
+   height: 25px;
+   margin-top: 20px;
+   margin-bottom: 10px;
+   /* Lösung e) */display:inline-block;
+}
